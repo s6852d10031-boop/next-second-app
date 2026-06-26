@@ -7,6 +7,7 @@ const kanit = Kanit({
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
 });
 
+//
 //ตรงส่วน Metadata จะมีผลกับ STO ของเว็บไซต์ และการแสดงผลของหน้าเว็บ
 export const metadata: Metadata = {
   title: "SAU Product Sale",
